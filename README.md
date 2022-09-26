@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Supratim Majumder</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Supratim Majumder</h1>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/debajyoti2050/readme-typing-svg -->
 <p align="center">
