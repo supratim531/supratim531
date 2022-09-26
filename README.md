@@ -36,7 +36,7 @@
 <br><br><br>
 <br><br><br>
 <br><br><br>
-<br><br><br>
+
 <div align="center">
   <h3><b>📍 Profile Visitor Count 📍</b></h3>
 </div>
