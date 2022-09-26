@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Supratim Majumder</h1>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/debajyoti2050/readme-typing-svg -->
+<p align="center">
+<a href="https://github.com/debajyoti2050/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Learning%20Full-Stack%20Web%20Development;A%20Self%20Taught%20Developer;A%20Quick%20Learner;A%20Competitive%20Gamer&font=Fira%20Code&center=true&width=500&height=45&color=1aff1a&vCenter=true&size=23"></a>
+</p>
+
 <h3 align="center">A Full-Stack Developer and an Aspiring Competitive Coder :")</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supratim531&label=Profile%20views&color=0e75b6&style=flat" alt="supratim531" /> </p>
