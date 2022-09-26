@@ -4,7 +4,7 @@
 <a href="https://github.com/supratim531/supratim531"><img src="https://readme-typing-svg.herokuapp.com/?lines=Learning%20Full-Stack%20Web%20Development;A%20Self%20Taught%20Developer;A%20Quick%20Learner;An%20Aspiring%20Competitive%20Coder%20😶&font=Fira%20Code&center=true&width=500&height=45&color=1aff1a&vCenter=true&size=23"></a>
 </p>
 
-<h4 align="center" style="opacity:50%">Full-Stack Web Developer with Limited Problem Solving Skills :")</h4>
+<h4 align="center" style="opacity: 50%;">Full-Stack Web Developer with Limited Problem Solving Skills :")</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supratim531&label=Profile%20views&color=0e75b6&style=flat" alt="supratim531" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
