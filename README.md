@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SAYAN MAITRA</h1>
 <h3 align="center">A passionate frontend developer and a Competitive Programmer :)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayan112&label=Profile%20views&color=0e75b6&style=flat" alt="sayan112" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=supratim531&label=Profile%20views&color=0e75b6&style=flat" alt="supratim531" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌱 I’m currently learning **React,JavaScript,Data structure & Algorithm**
