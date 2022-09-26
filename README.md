@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development and Data Structure & Algorithm**
 
-- 👨‍💻 All of my projects are available at [git:github@supratim531](https://github.com/supratim531?tab=repositories)
+- 👨‍💻 All of my projects are available at [git@github:supratim531](https://github.com/supratim531?tab=repositories)
 
 - ⚡ Fun Fact: **I torture my PC for 24x7**
 
