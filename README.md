@@ -1,16 +1,14 @@
-<h1 align="center">Hi 👋, I'm SAYAN MAITRA</h1>
-<h3 align="center">A passionate frontend developer and a Competitive Programmer :)</h3>
+<h1 align="center">Hi 👋, I'm SUPRATIM MAJUMDER</h1>
+<h3 align="center">A Full-Stack Developer and an Aspiring Competitive Coder :")</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supratim531&label=Profile%20views&color=0e75b6&style=flat" alt="supratim531" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently learning **React,JavaScript,Data structure & Algorithm**
+- 🌱 I’m currently learning **Full Stack Web Development, Data Structure & Algorithm**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sayan112](https://github.com/sayan112)
+- 👨‍💻 All of my projects are available at [github@supratim531](https://github.com/supratim531)
 
-- 📫 How to reach me **https://linktr.ee/sayan_11_maitra**
-
-- ⚡ Fun fact **I spent my 10 hours everyday in front of my laptop**
+- ⚡ Fun fact **I torture my PC for 24 X 7**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
