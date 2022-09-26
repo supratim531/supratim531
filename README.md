@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [git:github@supratim531](https://github.com/supratim531?tab=repositories)
 
-- ⚡ Fun fact **I torture my PC for 24 X 7**
+- ⚡ Fun fact **I torture my PC for 24x7**
 
 <h3 align="left">Connect with Me</h3>
 <p align="left">
