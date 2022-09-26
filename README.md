@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Supratim Majumder</h1>
 
 <p align="center">
-<a href="https://github.com/supratim531/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Learning%20Full-Stack%20Web%20Development;A%20Self%20Taught%20Developer;A%20Quick%20Learner;An%20Aspiring%20Competitive%20Coder%20😶&font=Fira%20Code&center=true&width=500&height=45&color=1aff1a&vCenter=true&size=23"></a>
+<a href="https://github.com/supratim531/supratim531"><img src="https://readme-typing-svg.herokuapp.com/?lines=Learning%20Full-Stack%20Web%20Development;A%20Self%20Taught%20Developer;A%20Quick%20Learner;An%20Aspiring%20Competitive%20Coder%20😶&font=Fira%20Code&center=true&width=500&height=45&color=1aff1a&vCenter=true&size=23"></a>
 </p>
 
 <h3 align="center">Full-Stack Web Developer with Limited Problem Solving Skills :")</h3>
