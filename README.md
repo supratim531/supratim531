@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development, Data Structure & Algorithm**
 
-- 👨‍💻 All of my projects are available at [github@supratim531](https://github.com/supratim531)
+- 👨‍💻 All of my projects are available at [git:github@supratim531](https://github.com/supratim531)
 
 - ⚡ Fun fact **I torture my PC for 24 X 7**
 
