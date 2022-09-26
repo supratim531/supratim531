@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SUPRATIM MAJUMDER</h1>
+<h1 align="center">Hi 👋, I'm Supratim Majumder</h1>
 <h3 align="center">A Full-Stack Developer and an Aspiring Competitive Coder :")</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supratim531&label=Profile%20views&color=0e75b6&style=flat" alt="supratim531" /> </p>
