@@ -6,6 +6,7 @@
 
 <h4 align="center">Full-Stack Web Developer with Limited Problem Solving Skills :")</h4>
 
+- 🔭 I’m currently working on **new projects.**
 <h3 align="left">Status</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
