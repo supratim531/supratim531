@@ -4,9 +4,9 @@
 <a href="https://github.com/supratim531/supratim531"><img src="https://readme-typing-svg.herokuapp.com/?lines=Learning%20Full-Stack%20Web%20Development;A%20Self%20Taught%20Developer;A%20Quick%20Learner;An%20Aspiring%20Competitive%20Coder%20😶&font=Fira%20Code&center=true&width=500&height=45&color=1aff1a&vCenter=true&size=23"></a>
 </p>
 
-<h4 align="center">🔭 I’m currently focusing on **Problem Solving**</h4>
+<h4 align="center">🔭 I’m currently focusing on Problem Solving</h4>
 
-<h3 align="left">Status</h3>
+<h3 align="left">Current Status</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌱 I’m currently learning **Full Stack Web Development and Data Structure & Algorithm**
@@ -40,4 +40,5 @@
 <div align="center">
   <h3><b>📍 Profile Visitor Count 📍</b></h3>
 </div>
+
 <p align="center"><img src="https://profile-counter.glitch.me/supratim531/count.svg" /></p>
