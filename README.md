@@ -6,7 +6,6 @@
 
 <h4 align="center">Full-Stack Web Developer with Limited Problem Solving Skills :")</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=supratim531&label=Profile%20views&color=0e75b6&style=flat" alt="supratim531" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌱 I’m currently learning **Full Stack Web Development and Data Structure & Algorithm**
@@ -40,5 +39,4 @@
 <div align="center">
   <h3><b>📍 Profile Visitor Count 📍</b></h3>
 </div>
-
 <p align="center"><img src="https://profile-counter.glitch.me/supratim531/count.svg" /></p>
