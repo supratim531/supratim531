@@ -10,8 +10,6 @@
 
 - ⚡ Fun fact **I torture my PC for 24 X 7**
 
-<br>
-
 <h3 align="left">Connect with Me</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/supratim531" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/sayan7586" height="30" width="40" /></a>
