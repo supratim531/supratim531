@@ -41,4 +41,4 @@
   <h3><b>📍 Profile Visitor Count 📍</b></h3>
 </div>
 
-<p align="center"><img src="https://profile-counter.glitch.me/debajyoti2050/count.svg" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/supratim531/count.svg" /></p>
