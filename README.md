@@ -10,11 +10,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supratim531&label=Profile%20views&color=0e75b6&style=flat" alt="supratim531" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently learning **Full Stack Web Development, Data Structure & Algorithm**
+- 🌱 I’m currently learning **Full Stack Web Development and Data Structure & Algorithm**
 
 - 👨‍💻 All of my projects are available at [git:github@supratim531](https://github.com/supratim531?tab=repositories)
 
-- ⚡ Fun fact **I torture my PC for 24x7**
+- ⚡ Fun Fact: **I torture my PC for 24x7**
 
 <h3 align="left">Connect with Me</h3>
 <p align="left">
