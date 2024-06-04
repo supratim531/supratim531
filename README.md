@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with Me</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/supratim531" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/supratim531" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/supratimm531" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/supratimm531" height="40" width="40" /></a>
-<a href="https://leetcode.com/supratimmajumder531" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/supratimmajumder531" height="30" width="40" /></a>
+<a href="https://codechef.com/users/supratim531" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://codechef.com/users/supratim531" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/supratim531" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/supratim531" height="40" width="40" /></a>
+<a href="https://leetcode.com/supratimm531" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/supratimm531" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🛠️ Languages and Frameworks 🛠️</h3>
